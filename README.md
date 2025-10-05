@@ -1,13 +1,12 @@
- Digital Art Gallery: Interactive Frontend Showcase
-A responsive and visually dramatic digital art gallery built with HTML, CSS, and vanilla JavaScript.
-
-This project features a horizontal thumbnail strip that uses a unique hover-to-center scroll effect for seamless browsing. Clicking a thumbnail opens a stylish, two-panel lightbox overlay to display the high-resolution image and detailed information.
+This is an interactive, dark-themed Software Engineer Portfolio of mmyself built using HTML, CSS, and vanilla JavaScript. The design is professional, utilizing a high-contrast palette of dark backgrounds and a bright Primary Green accent .
 
 Key Features:
-Atmospheric Design: Dark, fixed background with a stylized fixed heading.
+Hover-Scroll Navigation: A unique feature where moving the cursor near the top or bottom 10% of the screen triggers a smooth, continuous auto-scroll.
 
-Interactive Scrolling: Thumbnails automatically center in the viewport on hover.
+Image Zoom Effect: All main images across sections (About, Skills, Projects, Contact) slightly scale up (zoom in) and gain a box shadow on mouse hover for visual feedback.
 
-Detailed Lightbox: Modals display the title and description fetched dynamically via data- attributes.
+Smooth Navigation: All header and call-to-action links implement smooth scrolling to relevant sections.
 
-Keyboard Navigation: Full support for navigating the gallery with Arrow Keys (Left/Right) and closing the overlay with Escape.
+Structured Content: The portfolio is clearly organized into sections: Hero, About Me, Personal Skills (with animated progress bars), Education, Why Work With Me, Recents Projects, and Contact Details.
+
+Modern Layout: Uses a clean, two-column layout in multiple sections and an alternating (Z-shaped) design for the projects showcase.
